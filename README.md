@@ -12,6 +12,8 @@ sudo apt-get purge --auto-remove ruby
 
 # install new
 sudo apt-get install ruby2.6 ruby2.6-dev
+
+ruby -v
 ```
 
 ## Install jekyll
