@@ -4,12 +4,13 @@ title: NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image
 date: 2020-10-23 23:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
-tags: [Spectral Reconstruction, Image Restoration] # add tag
+tags: [Spectral Reconstruction, Super Resolution] # add tag
 ---
 
 题目：NTIRE 2020 挑战赛从RGB图像的光谱重建
 
-NTIRE（New Trends in Image Restoration and Enhancement），即图像恢复与增强的新趋势。NTIRE 2020 Challenge 知乎
+NTIRE（New Trends in Image Restoration and Enhancement），即图像恢复与增强的新趋势。  
+[NTIRE 2020 Challenge 知乎](https://zhuanlan.zhihu.com/p/139089670)
 NTIRE 2020 webpage:
 https://data.vision.ee.ethz.ch/cvl/ntire20/
 
