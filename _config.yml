@@ -17,6 +17,7 @@ about-author: I am a computer vision researcher. Always hungry to keep learning.
 social-github: Liuhongzhi2018 # add your Github handle
 # social-linkedin: # add your Linkedin handle
 social-email: liuhongzhi_006@163.com # add your Email address
+copy-right: Hongzhi Liu Copyright
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
@@ -28,6 +29,7 @@ analytics: # Google Analytics
 markdown: kramdown
 kramdown:
     math_engine: katex
+latex: True
 
 plugins:
   - jekyll-sitemap

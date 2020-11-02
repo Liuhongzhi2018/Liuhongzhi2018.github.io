@@ -85,4 +85,13 @@
 	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+       
+        <link rel="dns-prefetch" href="//cdn.bootcss.com" />
+
+{% if site.latex %}
+     <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_HTMLorMML">
+     </script>
+
+{% endif %}
+
 </head>
