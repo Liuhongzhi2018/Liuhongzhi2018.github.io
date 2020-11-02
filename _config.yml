@@ -12,10 +12,10 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Hongzhi Liu # add your name
 author-img: cver.jpg # add your photo
 about-author: I am a computer vision researcher. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+# social-twitter: # add your Twitter handle
+# social-facebook: # add your Facebook handle
 social-github: Liuhongzhi2018 # add your Github handle
-social-linkedin: # add your Linkedin handle
+# social-linkedin: # add your Linkedin handle
 social-email: liuhongzhi_006@163.com # add your Email address
 
 # Disqus
