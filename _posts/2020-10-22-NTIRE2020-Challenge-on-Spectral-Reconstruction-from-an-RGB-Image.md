@@ -62,7 +62,9 @@ Specim IQ 摄像机提供 RAW 512 × 512px 图像，400-1000nm 范围内有 204 
 测试：发布了真值光谱验证图像以及每个赛道的最终测试图像。 邀请参与者将最终解决方案上载到测试服务器，并对结果保密，直到挑战结束。
 评估约定。 与2018年的比赛[7]一样，在提交的重建结果和真值图像之间计算的平均相对绝对误差（MRAE）被选为比赛的量化指标。 均方根误差（RMSE）也将报告，但未用于对结果进行排名。 MRAE和RMSE计算如下：
 
-$$MRAE=\frac{\sum_{i,c}\frac{\vert P_{gtic}-P_{recic}\vert}{P_{gtic}}}{\vert P_{gt}\vert}$$ 
+$$
+MRAE=\frac{\sum_{i,c}\frac{\vert P_{gtic}-P_{recic}\vert}{P_{gtic}}}{\vert P_{gt}\vert}
+$$ 
 
 $$RMSE=\sqrt{\frac{\sum_{i,c}(P_{gtic}-P_{recic})^2}{\vertP_{gt}\vert}}$$ 
 
