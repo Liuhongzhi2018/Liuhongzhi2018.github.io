@@ -8,7 +8,7 @@ tags: [Spectral Reconstruction, Super Resolution] # add tag
 latex: true
 ---
 
-题目：NTIRE 2020 挑战赛从RGB图像的光谱重建
+# 题目：NTIRE 2020 挑战赛从RGB图像的光谱重建
 
 NTIRE（New Trends in Image Restoration and Enhancement），即图像恢复与增强的新趋势。  
 [NTIRE 2020 Challenge 知乎](https://zhuanlan.zhihu.com/p/139089670)  
